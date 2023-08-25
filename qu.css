@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(240, 245, 220);
+    }
+    #oi{
+    border:1px solid black; margin-left:500px;
+    margin-right:500px; margin-top: 150px; border-width: 20px; padding:15px; background-color: aqua;
+    }
+    #sw{
+    color: brown; font-size:50px;
+    
+    
+    text-align: center;
+    }
+    .se{
+    font-size:30px;
+    }
+    .qs{
+    font-size:20px;
+    }
+    #ki{
+    font-size:20px; color:blue;
+    background-color: antiquewhite;
+    }
+    #previous{
+    font-size:20px; color:blueviolet;
+    background-color: antiquewhite;
+    }
+    #re{
+    font-size:20px;
+    background-color: antiquewhite;
+    }
+    #rt{
+    font-size:20px;
+    }
+    
